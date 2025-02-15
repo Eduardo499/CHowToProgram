@@ -1,0 +1,41 @@
+# Compilados e binários
+*.o
+*.out
+*.exe
+*.obj
+*.dll
+*.so
+*.a
+*.lib
+
+# Arquivos de depuração
+*.dSYM/
+*.pdb
+*.ilk
+*.map
+*.exp
+
+# Arquivos gerados por ferramentas de build
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Arquivos temporários do sistema
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# Dependências e pacotes
+vendor/
+node_modules/
+
+# Arquivos do editor
+.vscode/
+*.code-workspace
+.idea/
+*.iml
