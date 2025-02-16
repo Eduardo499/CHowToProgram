@@ -7,7 +7,9 @@
 *.so
 *.a
 *.lib
-*.[!.]*
+*
+!/**/
+!*.*
 
 # Arquivos de depuração
 *.dSYM/
